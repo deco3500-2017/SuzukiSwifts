@@ -1,4 +1,4 @@
-**Project Proposal - **Suzuki Swifts
+**Project Proposal** - Suzuki Swifts
 
 Daiki Suzuki (44188078)
 
@@ -36,9 +36,11 @@ The original model for the app had a curated selection of debate topics, chosen 
 
 **User Research:**
 
-![image alt text](image_0.png)
+[![image_0.png](https://s26.postimg.org/wib47g2vt/image_0.png)](https://postimg.org/image/w5jq19klx/)
 
-![image alt text](image_1.png)
+[![image_1.png](https://s26.postimg.org/rkxjmc0wp/image_1.png)](https://postimg.org/image/dr96xa8b9/)
+
+[![Screen_Shot_2017-09-01_at_1.22.32_pm.png](https://s26.postimg.org/8h485zo2h/Screen_Shot_2017-09-01_at_1.22.32_pm.png)](https://postimg.org/image/dfrqkirv9/)
 
 **Analysis:**
 
@@ -46,15 +48,16 @@ The results of questionnaires show that as a concept, the app is attractive and 
 
 One of the most fundamental issues found from the questionnaire is that some of the users stated that creating a new community of friends through debating would be difficult, possibly causing conflicts between students. In order to rectify this, the idea of having two separate modes for the app was devised; a debate mode and a discussion mode. These two modes will allow for ‘the best of both worlds’, so to speak, with a classic debate mode for enthusiasts, and a more casual discussion group for the more social. The separation of the modes allows the app to broaden its user base. Discussion mode will allow users to have more relaxed conversations with each other, whether that is face to face or at a chosen spot at the university. Whereas Debate mode adds a more competitive element, where users can strengthen their communications skills and gain confidence to approach others in person to form friendships. 
 
-**Users**:The audience for the Debate Me app is predominantly university students, but may include some university staff. Typical users from this audience are defined through the following personas that span a large spectrum of user types.
+**Users**:
 
-![image alt text](image_2.png)
+The audience for the Debate Me app is predominantly university students, but may include some university staff. Typical users from this audience are defined through the following personas that span a large spectrum of user types.
 
-![image alt text](image_3.png)
+[![image_2.png](https://s26.postimg.org/sd4sz9uhl/image_2.png)](https://postimg.org/image/3jv8ymbh1/)
 
 **Team**:
 
-**Members and Roles**:
+
+**Members and Roles**:
 
 * Rohnil Ganjoo (DECO3500)
 
