@@ -11,7 +11,8 @@ Rohnil Ganjoo (43554667)
 
 Vinnie Stagnitti (44395009)
 
-##**Project Idea**:
+**Project Idea**:
+--------
 
 ‘Debate Me’ is a social and mobile application which allows users to pick from a range of different topics, and debate other users who also have an interest in those areas. There are a range of topics such as current events in politics, sports and even local issues. Debate Me provides students a unique platform for communicating their thoughts and opinions on topics they are interested in, and potentially creating friendships and relationships outside of the app based on this shared interest. *Succeed Socially* states students can feel "thrown for a loop" by the size of their new university community. Debate Me provides a platform where the students can be randomly paired with another student and directly communicate with fellow students attending the same university. This breaks down the barrier between students within the university. Why debating? According to *Quatar Debate*, academic research shows that debating can improve confidence and social skills, helping people to present themselves better socially.
 
@@ -19,7 +20,7 @@ Making friends in college and university can be a daunting task for a lot of stu
 
 How does the app work? The user creates a profile using their university login, in order to enforce security and prevent fake profiles being generated. The user will be required to verify their account through their university email. From the user research that was conducted (discussed later in the report), it was suggested that the app should feature two modes; Discussion and Debate. The discussion mode is for the casual user, looking for friendly easy conversation and building relationships and debating mode will be more for the enthusiasts looking to challenge themselves. The debate mode will help in building confidence and communication skills, helping students communicate clearly and form friendships with others. After creating a profile, a scrolling list of categories will appear such as sports and politics, within which there will be a range of recent events occurring in those categories. To broaden the topics that a present, the user will be able to suggest topics and send feedback to us the developers. When two users have selected the same topics, they will be randomly matched together and taken to a separate chat. Here they can discuss or debate the topic or choose to meet at a chosen location within the university (for safety reasons) and have a face to face conversation when they feel more comfortable. 
 
-Aims: 
+**Aims**: 
 
 * Engage university students and staff in debate about topics and issues of interest
 
@@ -36,6 +37,7 @@ As this app is targeting university students, to make sure fake profiles aren't 
 The original model for the app had a curated selection of debate topics, chosen by the app moderators, and updated regularly. This is still an important way to keep the app fresh and interesting. However, a potential user asked about what would happen if a topic they would like to debate was not on the app. To remedy this, there will be a ‘suggest a topic’ feature, where new debates will be added based on user demand. This realisation revealed the importance of user research in the formation of the app’s conceptual model.
 
 **User Research:**
+--------
 
 [![image_0.png](https://s26.postimg.org/wib47g2vt/image_0.png)](https://postimg.org/image/w5jq19klx/)
 
@@ -50,13 +52,14 @@ The results of questionnaires show that as a concept, the app is attractive and 
 One of the most fundamental issues found from the questionnaire is that some of the users stated that creating a new community of friends through debating would be difficult, possibly causing conflicts between students. In order to rectify this, the idea of having two separate modes for the app was devised; a debate mode and a discussion mode. These two modes will allow for ‘the best of both worlds’, so to speak, with a classic debate mode for enthusiasts, and a more casual discussion group for the more social. The separation of the modes allows the app to broaden its user base. Discussion mode will allow users to have more relaxed conversations with each other, whether that is face to face or at a chosen spot at the university. Whereas Debate mode adds a more competitive element, where users can strengthen their communications skills and gain confidence to approach others in person to form friendships. 
 
 **Users:**
+--------
 
 The audience for the Debate Me app is predominantly university students, but may include some university staff. Typical users from this audience are defined through the following personas that span a large spectrum of user types.
 
 [![image_2.png](https://s26.postimg.org/sd4sz9uhl/image_2.png)](https://postimg.org/image/3jv8ymbh1/)
 
 **Team:**
-
+--------
 
 **Members and Roles:**
 
@@ -98,6 +101,7 @@ Tasks will be delegated based on individual’s strengths to reduce poor group p
 If conflicts arise within the group, the first course of action will be to have a discussion about the issue in a team meeting. Within a formal, face to face environment, the conflict may be able to be resolved amicably. If the issue is not resolved, a tutor from the course can be requested to help to solve the issue. This will help to facilitate the conflict resolution in more serious cases. 
 
 **Plan:**
+--------
 
 **_Research_** (completed by September 4):
 
