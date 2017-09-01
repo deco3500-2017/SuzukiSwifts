@@ -1,4 +1,5 @@
-#**Project Proposal** - Suzuki Swifts
+**Project Proposal** - Suzuki Swifts
+=====================
 
 Daiki Suzuki (44188078)
 
