@@ -2,10 +2,15 @@
 =====================
 
 Daiki Suzuki (44188078)
+
 Lars Mellick (43911279)
+
 Jack Beioley (43038907)
+
 Rohnil Ganjoo (43554667)
+
 Vinnie Stagnitti (44395009)
+
 
 **Project Idea**:
 --------
