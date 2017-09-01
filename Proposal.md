@@ -1,4 +1,4 @@
-**Project Proposal** - Suzuki Swifts
+#**Project Proposal** - Suzuki Swifts
 
 Daiki Suzuki (44188078)
 
@@ -10,7 +10,7 @@ Rohnil Ganjoo (43554667)
 
 Vinnie Stagnitti (44395009)
 
-**Project Idea**:
+##**Project Idea**:
 
 ‘Debate Me’ is a social and mobile application which allows users to pick from a range of different topics, and debate other users who also have an interest in those areas. There are a range of topics such as current events in politics, sports and even local issues. Debate Me provides students a unique platform for communicating their thoughts and opinions on topics they are interested in, and potentially creating friendships and relationships outside of the app based on this shared interest. *Succeed Socially* states students can feel "thrown for a loop" by the size of their new university community. Debate Me provides a platform where the students can be randomly paired with another student and directly communicate with fellow students attending the same university. This breaks down the barrier between students within the university. Why debating? According to *Quatar Debate*, academic research shows that debating can improve confidence and social skills, helping people to present themselves better socially.
 
