@@ -48,38 +48,33 @@ The results of questionnaires show that as a concept, the app is attractive and 
 
 One of the most fundamental issues found from the questionnaire is that some of the users stated that creating a new community of friends through debating would be difficult, possibly causing conflicts between students. In order to rectify this, the idea of having two separate modes for the app was devised; a debate mode and a discussion mode. These two modes will allow for ‘the best of both worlds’, so to speak, with a classic debate mode for enthusiasts, and a more casual discussion group for the more social. The separation of the modes allows the app to broaden its user base. Discussion mode will allow users to have more relaxed conversations with each other, whether that is face to face or at a chosen spot at the university. Whereas Debate mode adds a more competitive element, where users can strengthen their communications skills and gain confidence to approach others in person to form friendships. 
 
-**Users**:
+**Users:**
 
 The audience for the Debate Me app is predominantly university students, but may include some university staff. Typical users from this audience are defined through the following personas that span a large spectrum of user types.
 
 [![image_2.png](https://s26.postimg.org/sd4sz9uhl/image_2.png)](https://postimg.org/image/3jv8ymbh1/)
 
-**Team**:
+**Team:**
 
 
-**Members and Roles**:
+**Members and Roles:**
 
 * Rohnil Ganjoo (DECO3500)
-
     * Team leader, User testing, Stand-up agenda creation, Speaker in stand-ups
 
 * Lars Mellick (DECO3500)
-
     * File management, Low-fidelity prototyping, Promotional material content, Speaker in stand-ups, Head of report writing
 
 * Daiki Suzuki (DECO3500)
-
     * Team logistics, Conducting user surveys, User testing
 
 * Jack Beioley (DECO3500)
-
     * App interface design, Promotional material visual design
 
 * Vinnie Stagnitti (DECO3500)
-
     * High-fidelity prototyping, Testing data compilation
 
-**Communication**: 
+**Communication:**
 
 * Team meetings will be held weekly within a UQ library group room. Weekly communication will ensure that the team is synchronised, and allow for discussion on important topics.
 
@@ -87,43 +82,41 @@ The audience for the Debate Me app is predominantly university students, but may
 
 * All files for the team will be stored in Google Drive. This allows for collaboration with documents such as reports. If required, the team will also use Github for file collaboration.
 
-* Files will be named according to their contents, with no spaces in between words. 
+* Files will be named according to their contents, with no spaces in between words. Eg. Team Proposal.pdf
 
-Eg. Team Proposal.pdf
-
-**Decision making**:
+**Decision making:**
 
 When making an important decision, the team will try to reach consensus by discussing during the workshop, or through the Facebook group chat, which was created at the beginning of the project. Every member’s opinion will be treated equally, no matter what roles they are taking in the project. Each member should try to show respect for one another and not dominate the other team members in discussion.
 
-**Performance**:
+**Performance:**
 
 Tasks will be delegated based on individual’s strengths to reduce poor group performance. If a team member is struggling to complete a task and requires help, they should alert the team as soon as possible to allow the team time to help. If a team member is not contributing to the project to a satisfactory level, the steps in the conflict resolution section will be taken.
 
-**Conflict resolution**:
+**Conflict resolution:**
 
 If conflicts arise within the group, the first course of action will be to have a discussion about the issue in a team meeting. Within a formal, face to face environment, the conflict may be able to be resolved amicably. If the issue is not resolved, a tutor from the course can be requested to help to solve the issue. This will help to facilitate the conflict resolution in more serious cases. 
 
-**Plan****:**
+**Plan:**
 
-**_Research_**** (completed by September 4):**
+**_Research_** (completed by September 4):
 
 * An initial questionnaire has been deployed (with results shown earlier in this report). This helped in understanding the user audience by asking questions that clarify how and why someone would use this app.
 
 * Although already started for this proposal, further research into the areas of debating, university transitioning, and similar online services, will be conducted. This will strengthen the evidence behind the benefits of the Debate Me concept.
 
-**_Requirements_**** (completed by September 12 - Milestone 1):**
+**_Requirements_** (completed by September 12 - Milestone 1):
 
 * Initial user interviews will be the main way of gathering requirements, aimed at the main target audience of university students. Questions such as, "What difficulties do you find engaging with university students?", will be asked. The individual’s opinion on the concept of Debate Me will also be requested, asking the student to discuss their interest in using the service and their problems with the conceptual model. This will be through a range of Likert scale questions.
 
 * The interviewing will help to solidify the idea of the app, and help prioritise the importance of various features and aspects of the app. Multiple interviewees will triangulate the qualitative and quantitative data to form a consensus.
 
-**_Design_**** (mostly completed by October 3 - Milestone 2):**
+**_Design_** (mostly completed by October 3 - Milestone 2):
 
 * Interface design will be conducted to determine how the app will look, feel, and run. Aesthetics are very important for the usability of the app, and so the interface will be confirmed within the team and verified with outside sources.
 
 * A low-fidelity paper prototype will be developed for user testing. The prototype will show the key aspects of the app and how they interact with each other.
 
-**_Testing_**** (completed by October 18 - Milestone 3):**
+**_Testing_** (completed by October 18 - Milestone 3):
 
 * The low-fidelity prototype will be tested using the Wizard of Oz method. Various users will be asked to complete a range of tasks within the Debate Me app, and the paper prototype will be changed according to the user’s actions. Issues with the application will be dealt with and the design will be tweaked according to what is observed in the user testing.
 
@@ -131,7 +124,7 @@ If conflicts arise within the group, the first course of action will be to have 
 
 * The high fidelity prototype will be tested in a similar manner to the low-fidelity test, however at the end of this test, the user will be interviewed, with a range of quantitative and qualitative questions about the app functionality and design. The design can then be tweaked and optimised before submission.
 
-**Tags: **
+**Tags:**
 
 #CSCW, #conversation, #emotion, #social, #privacy
 
