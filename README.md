@@ -1,4 +1,3 @@
-# SuzukiSwifts
-Debate Me
+# SuzukiSwifts - DebateMe
 
 Marvel Prototype: https://marvelapp.com/36ag9h8/screen/33001149
