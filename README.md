@@ -8,3 +8,4 @@ High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.n
  - Please view the link above while on mobile responsive mode or from mobile phones. 
  - Please disable autocorrect as if any words get autocorrected, the message will not be posted due to the fuctional issue.
  
+Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Future%20of%20Debate%20Me.docx
