@@ -6,6 +6,8 @@ Kickstarter Video: https://www.youtube.com/watch?v=U_8lgUJSF3M&t=49s
 
 Brochure: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Debate-Me-brochure.pdf
 
+Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
+
 High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.net/topic.html
  - Please view the link above while on mobile responsive mode or from mobile phones. 
  - Please disable autocorrect as if any words get autocorrected, the message will not be posted due to the fuctional issue.
