@@ -50,7 +50,7 @@ Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts
 - Run user tests for the marvel prototype. 
 
 ## **Contributions:** 
-Daiki:
+**Daiki:**
 - Completed the content of Value Proposition Canvas for each persona
 - Contribution the project proposal
 - Worked on completing the paper prototype during the meeting.
@@ -60,7 +60,7 @@ Daiki:
 Completed stand up documentation with Rohnil
 
 
-Rohnil: 
+**Rohnil:** 
 - Created proforma test plan
 - Created  questions for the user tests
 - Contribution to the project proposal:
@@ -70,13 +70,13 @@ Rohnil:
 - Worked on finishing the paper prototype during group meeting. 
 - Completed stand up documentation with Daiki.
 
-Lars: 
+**Lars: **
 
 
-Vinnie: 
+**Vinnie:** 
 
 
-Jack:
+**Jack:**
 
 # **Stand Up 2:**
 ## **Aims/Goals:** 
@@ -118,7 +118,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Test external chat system. 
 
 ## **Contributions:** 
-Daiki:
+**Daiki:**
 - Created the whole marvel app prototype, based on the paper prototype from the previous standup
 - I have messaged the tutor and emailed the lecturer for further feedbacks and help to improve our project and make sure that our plan was on the right track because the mark we received for the previous stand up was poor.
 - Conducted user test for the mode with other members.
@@ -130,7 +130,7 @@ Daiki:
 - Completed stand up documentation with Rohnil
 
 
-Rohnil: 
+**Rohnil:** 
 - Created proforma test plans for the timing and round system. 
 - Created questionnaires for user tests for the timing and round system.
 - Conducted a user test for the timing and rating system with Daiki and Jack.
@@ -140,13 +140,76 @@ Rohnil:
 - Created a proforma test report.
 - Completed stand up documentation with Daiki.
 
-Lars: 
+**Lars:** 
 
 
-Vinnie: 
+**Vinnie:** 
 
 
-Jack:
+**Jack:**
+
+
+# **Stand Up 3:**
+## **Aims/Goals:** 
+- Determine a solution of integrating a chat system with the marvel app prototype.
+- Develop an external chat system for the Marvel app prototype which will be integrated with the existing prototype.. 
+- Develop prompts for the in person debate function. 
+- Conduct user tests with prompts. 
+- Test external chat system. 
+- Work on promotional material for the showcase. 
+
+## **Progress:** 
+- Integrated chat system with the marvel app using HTML, CSS, JavaScript and PHP. The progress of the digital prototype, as - well as the chat system are uploaded on the GitHub. (see https://github.com/deco3500-2017/SuzukiSwifts)
+- Developed prompts that can be used to accelerate an in-person conversation.
+- Conducted user tests for the prompts. 
+- Conducted tests for the chat system.
+- Started working on promotional material for the showcase. 
+
+## **Issues/Changes:** 
+- All the issues the users encountered with the chat system and the prototype in general was uploaded on GitHub. (see https://github.com/deco3500-2017/SuzukiSwifts)
+- The users were feeling uncomfortable and awkward when meeting in person for both debating and discussing. Thus, we added 'Prompts' which support navigating the users. 
+- Users thought the prompts were quite basic with a few unnecessary ones such as “introduce yourself” so we decided to add ones more specific to the topic being debated.
+- After the user tests, we found out that depending on the topic, or the personalities of the users, more rounds are required. Therefore, extending the round option was added.
+
+## **Plan for next sprint:** 
+- Create a poster for the showcase. 
+- Create a kickstarter video for the showcase.
+- Create brochures for the showcase.
+- Create a pitch for the showcase. 
+
+## **Contributions:** 
+**Daiki:**
+- Delegated tasks to each member to work on for the stand up to efficiently make a progress.
+- Done a lot of research to find a solution to the integration of marvel and interactive and innovative chat system. I then -found out that the marvel app allows an external link. Therefore, I designed a chat system using the mobile responsive mode.
+- Created database to store all the messages in the chat system.
+- Hosted a zone for the prototype. 
+- Programmed the topic page, with the timer function and the whole debating chat system page, including the timer, rounds, posting message functionalities etc. 
+- I have contacted the tutor few times and went to many pracs to solve some functional issues. 
+- Carried out two user tests for the chat system by myself.
+- Analysed the results.
+- Further developed the prototype based on the analysis.
+- Written the digital prototype, chat system and second chat system progress. (uploaded on GitHub)
+- Completed the standup documentation with Rohnil
+
+**Rohnil:** 
+- Created a proforma test plan for testing the prompts that were developed.
+- Created questionnaires for users for the prompts. 
+- Ran user tests for the prompts with 5 users.	
+- Created proforma test report. 
+- Analysed the results of the user tests and formed improvements that can be developed. 
+- Ran second user test with the improvements made to the prompts.
+- Created a future development plan for the App - what are the future implementations we would consider and implement? 
+- Completed stand up documentation with Daiki. 
+
+**Lars:** 
+
+
+**Vinnie:** 
+
+
+**Jack:**
+
+
 
 
 
