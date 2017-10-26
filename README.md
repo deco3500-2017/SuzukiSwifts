@@ -210,6 +210,43 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 **Jack:**
 
 
+# **Showcase:**
+## **Aims/Goals:** 
+- Create a poster for the showcase. 
+- Create a kickstarter video for the showcase.
+- Create brochures for the showcase.
+- Write a 30 second pitch for the showcase. 
+
+## **Progress:**
+- Created poster
+- Created kickstarter video
+- Created brochures 
+- Wrote a 30 second pitch for the app
+
+## **Contributions:** 
+**Daiki:**
+- Conducted one last user test to make sure that there are no major issues.
+- Fixed the functional issue found from the user test conducted before the showcase. (Autocorrection stopped the message from getting posted on the chat)
+- Contributed to the kickstarter video creation with Jack and Vinnie.
+- Helped with the original Poster design.
+- Wrote the whole content for the each section of the poster.(before it gets edited)
+- Prepared for the showcase with Vinnie and Jack. (printing Poster and brochures, final edition to the kickstarter video etc.)
+
+**Rohnil:**
+- Created Brochures 
+- Ran a questionnaire to get feedback on the future prospects of the app. 
+- Completed future development plan with user feedback. 
+- Added final documents to github and made updates to have everything submitted and on point. 
+
+**Lars:**
+Created the poster and wrote a 30 second pitch for the app
+
+**Vinnie:**
+Created kickstarter video with Jack
+
+**Jack:**
+Created Kickstarter video with Vinnie
+
 
 
 
