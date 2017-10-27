@@ -15,11 +15,7 @@ High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.n
  Original Marvel Prototype: https://marvelapp.com/36ag9h8
 
 ## **Design:**
-https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Final%20Report%20-%20Summary%2C%20Design%20process%2C%20theory%2C%20limitations.docx
-- Summary
-- Design Process
-- Theory 
-- Limitations
+Design Process (summary, process, theory, limitations): https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Final%20Report%20-%20Summary%2C%20Design%20process%2C%20theory%2C%20limitations.docx
 
 Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Future%20of%20Debate%20Me.docx
 
