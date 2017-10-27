@@ -74,10 +74,10 @@ Completed stand up documentation with Rohnil
 - Contribution to the project proposal: Involved in writing large portions of all sections, Editing and formatting
 
 **Vinnie:** 
--Contributed to Designing the low fidelity paper prototype
--Contributed to the project proposal:
--Plan
--Some editing to document & formatting to proposal document.
+- Contributed to Designing the low fidelity paper prototype
+- Contributed to the project proposal:
+- Plan
+- Some editing to document & formatting to proposal document.
 
 
 
@@ -158,8 +158,8 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Deciding what needs to be changed in the prototype in response to the results.
 
 **Vinnie:** 
--Analysed conversations for the user tests from the chat system testing.
--Contributed with user test with chat system.
+- Analysed conversations for the user tests from the chat system testing.
+- Contributed with user test with chat system.
 
 
 **Jack:**
@@ -229,7 +229,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Conceptualised and implemented 'Debate Mates' Favourites system.
 
 **Vinnie:** 
--Completed user tests for in-person chat user test.
+- Completed user tests for in-person chat user test.
 
 
 **Jack:**
@@ -266,6 +266,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Ran a questionnaire to get feedback on the future prospects of the app. 
 - Completed future development plan with user feedback. 
 - Added final documents to github and made updates to have everything submitted and on point. 
+- Completed the final report - summary, design process, limitations, theory with Vinnie 
 
 **Lars:**
 - Created poster design and layout
@@ -275,10 +276,10 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 **Vinnie:**
 - Created a script for the kickstarter video with Jack
 - Got footage for kickstarter video round campus
--Edited Kickstarter video
--Contributed to creating the poster
--Prepared for the showcase with Daiki and Jack. (printing Poster and brochures)
--Contributed with Final report
+- Edited Kickstarter video
+- Contributed to creating the poster
+- Prepared for the showcase with Daiki and Jack. (printing Poster and brochures)
+- Contributed with Final report
 
 **Jack:**
 - Created a script for the kickstarter video with Vinnie
