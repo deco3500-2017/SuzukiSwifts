@@ -2,11 +2,11 @@
 
 Marvel Prototype: https://marvelapp.com/36ag9h8
 
+Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
+
 Kickstarter Video: https://www.youtube.com/watch?v=U_8lgUJSF3M&t=49s
 
 Brochure: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Debate-Me-brochure.pdf
-
-Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
 
 High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.net/topic.html
  - Please view the link above while on mobile responsive mode or from mobile phones. 
@@ -52,13 +52,11 @@ Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts
 ## **Contributions:** 
 **Daiki:**
 - Completed the content of Value Proposition Canvas for each persona
-- Contribution the project proposal
 - Worked on completing the paper prototype during the meeting.
 - Conducted user test using paper prototype with 3 users.
 - Noted all the observations, as well as users' feedbacks.
 - Written the analysis of the user tests and changed the concept based on the feedback received with the team. 
 Completed stand up documentation with Rohnil
-
 
 **Rohnil:** 
 - Created proforma test plan
@@ -70,8 +68,10 @@ Completed stand up documentation with Rohnil
 - Worked on finishing the paper prototype during group meeting. 
 - Completed stand up documentation with Daiki.
 
-**Lars: **
-
+**Lars:**
+- Designed 3 personas that capture the expected user base
+- Designed and drew up the low fidelity paper prototype
+- Contribution to the project proposal: Involved in writing large portions of all sections, Editing and formatting
 
 **Vinnie:** 
 
@@ -126,7 +126,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 
 ## **Contributions:** 
 **Daiki:**
-- Created the whole marvel app prototype, based on the paper prototype from the previous standup
+- Created the whole Marvel app prototype, based on the paper prototype from the previous standup
 - I have messaged the tutor and emailed the lecturer for further feedbacks and help to improve our project and make sure that our plan was on the right track because the mark we received for the previous stand up was poor.
 - Conducted user test for the mode with other members.
 - The user test for the mode with Jack and Rohnil
@@ -135,7 +135,6 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Every time the team made a change to the concept, I modified the digital prototype.
 - Also added all the improvements to the prototype.
 - Completed stand up documentation with Rohnil
-
 
 **Rohnil:** 
 - Created proforma test plans for the timing and round system. 
@@ -148,16 +147,18 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Completed stand up documentation with Daiki.
 
 **Lars:** 
-
+- Wrote questionnaires for user testing sessions.
+- Conducted second user testing session, with adjustments to the timing and rating system.
+- Written analysis of both the user tests and evaluation
+- Deciding what needs to be changed in the prototype in response to the results.
 
 **Vinnie:** 
 
 
 **Jack:**
 - Conducted user tests on the Timing and Rating system with Daiki and Rohnil 
-- discussed changes to the Rating and timing system
-- performed follow up tests on the rating and timing system with Lars, Daiki and Rohnil
-- Further modified the rating system
+- Discussed changes to the Rating and timing system
+- Performed follow up tests on the rating and timing system with Lars, Daiki and Rohnil
 - Conducted a third and final user test with the timing and rating system with the whole team
 - Considered the valadility of the Rating system and planned discussion with prac tutors.
 - Reviewed the stand up 2 documentation
@@ -207,7 +208,6 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 
 **Rohnil:** 
 - Created a proforma test plan for testing the prompts that were developed.
-- Created questionnaires for users for the prompts. 
 - Ran user tests for the prompts with 5 users.	
 - Created proforma test report. 
 - Analysed the results of the user tests with Jack and formed improvements that can be developed. 
@@ -216,7 +216,10 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Completed stand up documentation with Daiki. 
 
 **Lars:** 
-
+- Reworking aspects of the main Marvel interface to meet new design decisions
+- Designed in-person prompts system
+- Created questionnaires for users for the prompts
+- Conceptualised and implemented 'Debate Mates' Favourites system.
 
 **Vinnie:** 
 
@@ -226,8 +229,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Explored ideas for the kickstarter video with Vinnie 
 - Help Daiki create the zone for the Prototype 
 - Reviewed the stand up Documentation
-- Finalized the Rating system removal and Favourites implementation with Daiki ('Debate Mates')
-
+- Finalized the Rating system removal and Favourites implementation with Lars and Daiki ('Debate Mates')
 
 
 # **Showcase:**
@@ -248,8 +250,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Conducted one last user test to make sure that there are no major issues.
 - Fixed the functional issue found from the user test conducted before the showcase. (Autocorrection stopped the message from getting posted on the chat)
 - Contributed to the kickstarter video creation with Jack and Vinnie.
-- Helped with the original Poster design.
-- Wrote the whole content for the each section of the poster.(before it gets edited)
+- Drafted original content for poster before Lars rewrote.
 - Prepared for the showcase with Vinnie and Jack. (printing Poster and brochures, final edition to the kickstarter video etc.)
 
 **Rohnil:**
@@ -259,20 +260,20 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Added final documents to github and made updates to have everything submitted and on point. 
 
 **Lars:**
-Created the poster and wrote a 30 second pitch for the app
+- Created poster design and layout
+- Wrote poster text content
+- Wrote 30 second pitch for the app showcase
 
 **Vinnie:**
 - Created a script for the kickstarter video with Jack
-- got footage for kick starter video round campus
-
+- Got footage for kick starter video round campus
 
 **Jack:**
 - Created a script for the kickstarter video with Vinnie
 - got footage for kick starter video round campus
 - Got voice recordings for the Kick starter video
 - Wrote the kickstarter video subtitles
-- Scripted the content for the Poster
-- Reviewed the poster design 
+- Assisted content writing for poster
 
 
 
