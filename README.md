@@ -275,7 +275,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 **Vinnie:**
 - Created a script for the kickstarter video with Jack
 - Got footage for kickstarter video round campus
--Edited video Kickstarter video
+-Edited Kickstarter video
 -Contributed to creating the poster
 -Prepared for the showcase with Daiki and Jack. (printing Poster and brochures)
 
