@@ -1,20 +1,20 @@
 # SuzukiSwifts - DebateMe
 
-# **Promotional Material:**
+## **Promotional Material:**
 - Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
 
 - Kickstarter Video: https://www.youtube.com/watch?v=U_8lgUJSF3M&t=49s
 
 - Brochure: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Debate-Me-brochure.pdf
 
-# **Prototype:**
+## **Prototype:**
 High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.net/topic.html
  - Please view the link above while on mobile responsive mode or from mobile phones. 
  - Please disable autocorrect as if any words get autocorrected, the message will not be posted due to the fuctional issue.
  
  Original Marvel Prototype: https://marvelapp.com/36ag9h8
 
-# **Design:**
+## **Design:**
 https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Final%20Report%20-%20Summary%2C%20Design%20process%2C%20theory%2C%20limitations.docx
 - Summary
 - Design Process
@@ -24,8 +24,8 @@ https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Final%20Report%20-%20S
 Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Future%20of%20Debate%20Me.docx
 
 # **Semester Progress and Team Member Contributions:**
-# **Stand Up 1:**
-## **Aims/Goals:** 
+## **Stand Up 1:**
+### **Aims/Goals:** 
 - Create low fidelity paper prototype of the user interface 
  - Create different versions of the options menu screen to see which is more appealing to users
  - Rating system screen
@@ -36,7 +36,7 @@ Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts
 - Test our concept with users.
 
 
-## **Progress:** 
+### **Progress:** 
 - Created a low fidelity paper prototype for the apps user interface with a variation in designs. 
 - Created a proforma test plan with questions to ask users.
 - Created three personas.
@@ -44,11 +44,11 @@ Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts
 - Conducted a questionnaire to test the concept of Debate Me.
 - Completed the project proposal. 
 
-## **Issues/Changes:** 
+### **Issues/Changes:** 
 - Some participants of the user test had stated that debating could possibly cause some conflicts and dislike each other, instead of becoming friends. Therefore, we added 'discussion' mode, where the users can friendlily discuss about the topic, instead of arguing against each other. 
 - Users were confused about the rating system. It was unclear what they were actually rating and therefore we decided to change this to a “Send a star” system where the users send a star only if they enjoyed debating with a matched partner. Number of stars received represent the level of that user in the app. 
 
-## **Plan for next sprint:** 
+### **Plan for next sprint:** 
 - Run user tests:
 - Debating Concept
 - Menu screen
@@ -59,7 +59,7 @@ Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts
 - Develop proforma test plan. 
 - Run user tests for the marvel prototype. 
 
-## **Contributions:** 
+### **Contributions:** 
 **Daiki:**
 - Completed the content of Value Proposition Canvas for each persona
 - Worked on completing the paper prototype during the meeting.
@@ -100,8 +100,8 @@ Completed stand up documentation with Rohnil
 - Analyzed the results of questionaires with Daiki
 - Project idea modification in response to questionaire feedback
 
-# **Stand Up 2:**
-## **Aims/Goals:** 
+## **Stand Up 2:**
+### **Aims/Goals:** 
 - Design a more realistic digital prototype using marvel app. 
 - Develop proforma test plans and questionnaires. 
 - Run user tests for marvel app prototype:
@@ -116,7 +116,7 @@ Completed stand up documentation with Rohnil
 - Test chat functionality with the messenger app.
 
 
-## **Progress:**  
+### **Progress:**  
 - Created a digital prototype using Mavel.
 - Created proforma test plan
 - Ran user tests with the Marvel prototype. 
@@ -126,20 +126,20 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - The user tests results clearly determined the most suitable time for the timing system. It was set to: 2minutes for the topic page, 30 seconds reading time to read and prepare for your own argument after receiving a message from the opponent, and 2 minutes typing time. 
 
 
-## **Issues/Changes:**  
+### **Issues/Changes:**  
 - From the observation of the user test, the team realised that the users are not connected after becoming friends through Debate Me. We added a 'Favourite' system where users can add people to their favourites page if they had a positive experience with the other user, while sending the star to that partner. When the user adds each other to the favourite list, they can contact each other through the app for future.
 - The users were very confused with how to end the debate. The original idea was that if the user does not send a message within 2 minutes, the debate immediately ends. However, there was no indication for the users to be notified about how it exactly ends. Furthermore, many users disagreed with this idea and thus, based on the feedbacks, we decided to set a number of rounds. 
 - After adding the rounds system, another user test was conducted to determine the most reasonable number of rounds. Majority of the users said that 3 rounds were perfect. 
 - Group Debate was unsuccessful because taking turns with multiple users took too long and demotivated the users from debating. 
 - Online Group Discuss was also unsuccessful because firstly, there was less interaction between the users and secondly, they often digressed from the topic. 
 
-## **Plan for next sprint:**  
+### **Plan for next sprint:**  
 - Develop an external chat system for the Marvel app prototype which will be integrated with the existing prototype.. 
 - Develop prompts for the in person debate function. 
 - Conduct user tests with prompts. 
 - Test external chat system. 
 
-## **Contributions:** 
+### **Contributions:** 
 **Daiki:**
 - Created the whole Marvel app prototype, based on the paper prototype from the previous standup
 - I have messaged the tutor and emailed the lecturer for further feedbacks and help to improve our project and make sure that our plan was on the right track because the mark we received for the previous stand up was poor.
@@ -181,8 +181,8 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Reviewed the stand up 2 documentation
 
 
-# **Stand Up 3:**
-## **Aims/Goals:** 
+## **Stand Up 3:**
+### **Aims/Goals:** 
 - Determine a solution of integrating a chat system with the marvel app prototype.
 - Develop an external chat system for the Marvel app prototype which will be integrated with the existing prototype.. 
 - Develop prompts for the in person debate function. 
@@ -190,26 +190,26 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Test external chat system. 
 - Work on promotional material for the showcase. 
 
-## **Progress:** 
+### **Progress:** 
 - Integrated chat system with the marvel app using HTML, CSS, JavaScript and PHP. The progress of the digital prototype, as - well as the chat system are uploaded on the GitHub. (see https://github.com/deco3500-2017/SuzukiSwifts)
 - Developed prompts that can be used to accelerate an in-person conversation.
 - Conducted user tests for the prompts. 
 - Conducted tests for the chat system.
 - Started working on promotional material for the showcase. 
 
-## **Issues/Changes:** 
+### **Issues/Changes:** 
 - All the issues the users encountered with the chat system and the prototype in general was uploaded on GitHub. (see https://github.com/deco3500-2017/SuzukiSwifts)
 - The users were feeling uncomfortable and awkward when meeting in person for both debating and discussing. Thus, we added 'Prompts' which support navigating the users. 
 - Users thought the prompts were quite basic with a few unnecessary ones such as “introduce yourself” so we decided to add ones more specific to the topic being debated.
 - After the user tests, we found out that depending on the topic, or the personalities of the users, more rounds are required. Therefore, extending the round option was added.
 
-## **Plan for next sprint:** 
+### **Plan for next sprint:** 
 - Create a poster for the showcase. 
 - Create a kickstarter video for the showcase.
 - Create brochures for the showcase.
 - Create a pitch for the showcase. 
 
-## **Contributions:** 
+### **Contributions:** 
 **Daiki:**
 - Delegated tasks to each member to work on for the stand up to efficiently make a progress.
 - Done a lot of research to find a solution to the integration of marvel and interactive and innovative chat system. I then -found out that the marvel app allows an external link. Therefore, I designed a chat system using the mobile responsive mode.
@@ -250,20 +250,20 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Finalized the Rating system removal and Favourites implementation with Lars and Daiki ('Debate Mates')
 
 
-# **Showcase and Final Documentation:**
-## **Aims/Goals:** 
+## **Showcase and Final Documentation:**
+### **Aims/Goals:** 
 - Create a poster for the showcase. 
 - Create a kickstarter video for the showcase.
 - Create brochures for the showcase.
 - Write a 30 second pitch for the showcase. 
 
-## **Progress:**
+### **Progress:**
 - Created poster
 - Created kickstarter video
 - Created brochures 
 - Wrote a 30 second pitch for the app
 
-## **Contributions:** 
+### **Contributions:** 
 **Daiki:**
 - Conducted one last user test to make sure that there are no major issues.
 - Fixed the functional issue found from the user test conducted before the showcase. (Autocorrection stopped the message from getting posted on the chat)
