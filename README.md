@@ -14,6 +14,13 @@ High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.n
  
 Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Future%20of%20Debate%20Me.docx
 
+# **Final Report:**
+https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Final%20Report%20-%20Summary%2C%20Design%20process%2C%20theory%2C%20limitations.docx
+- Summary
+- Design Process
+- Theory 
+- Limitations
+
 # **Semester Progress and Team Member Contributions:**
 # **Stand Up 1:**
 ## **Aims/Goals:** 
@@ -241,7 +248,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Finalized the Rating system removal and Favourites implementation with Lars and Daiki ('Debate Mates')
 
 
-# **Showcase:**
+# **Showcase and Final Documentation:**
 ## **Aims/Goals:** 
 - Create a poster for the showcase. 
 - Create a kickstarter video for the showcase.
