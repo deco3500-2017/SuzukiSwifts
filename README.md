@@ -77,6 +77,13 @@ Completed stand up documentation with Rohnil
 
 
 **Jack:**
+- Revised and finalized the user test questions
+- Developed the user questionaire sheets
+- Conducted the Questionaire with students from different study backgrounds 
+- Slight modifications on the user questionaires  
+- Formatted the Questionaire results 
+- Analyzed the results of questionaires with Daiki
+- Project idea modification in response to questionaire feedback
 
 # **Stand Up 2:**
 ## **Aims/Goals:** 
@@ -147,6 +154,13 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 
 
 **Jack:**
+- Conducted user tests on the Timing and Rating system with Daiki and Rohnil 
+- discussed changes to the Rating and timing system
+- performed follow up tests on the rating and timing system with Lars, Daiki and Rohnil
+- Further modified the rating system
+- Conducted a third and final user test with the timing and rating system with the whole team
+- Considered the valadility of the Rating system and planned discussion with prac tutors.
+- Reviewed the stand up 2 documentation
 
 
 # **Stand Up 3:**
@@ -196,7 +210,7 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 - Created questionnaires for users for the prompts. 
 - Ran user tests for the prompts with 5 users.	
 - Created proforma test report. 
-- Analysed the results of the user tests and formed improvements that can be developed. 
+- Analysed the results of the user tests with Jack and formed improvements that can be developed. 
 - Ran second user test with the improvements made to the prompts.
 - Created a future development plan for the App - what are the future implementations we would consider and implement? 
 - Completed stand up documentation with Daiki. 
@@ -208,6 +222,12 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 
 
 **Jack:**
+- Analysed the results of the user tests with Rhonil and formed improvements that can be developed.
+- Explored ideas for the kickstarter video with Vinnie 
+- Help Daiki create the zone for the Prototype 
+- Reviewed the stand up Documentation
+- Finalized the Rating system removal and Favourites implementation with Daiki ('Debate Mates')
+
 
 
 # **Showcase:**
@@ -242,10 +262,17 @@ Used the Facebook messenger app as our chat functionality. One of the members pr
 Created the poster and wrote a 30 second pitch for the app
 
 **Vinnie:**
-Created kickstarter video with Jack
+- Created a script for the kickstarter video with Jack
+- got footage for kick starter video round campus
+
 
 **Jack:**
-Created Kickstarter video with Vinnie
+- Created a script for the kickstarter video with Vinnie
+- got footage for kick starter video round campus
+- Got voice recordings for the Kick starter video
+- Wrote the kickstarter video subtitles
+- Scripted the content for the Poster
+- Reviewed the poster design 
 
 
 
