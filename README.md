@@ -1,12 +1,12 @@
 # SuzukiSwifts - DebateMe
 
 Marvel Prototype: https://marvelapp.com/36ag9h8
+# **Promitional Material:**
+- Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
 
-Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
+- Kickstarter Video: https://www.youtube.com/watch?v=U_8lgUJSF3M&t=49s
 
-Kickstarter Video: https://www.youtube.com/watch?v=U_8lgUJSF3M&t=49s
-
-Brochure: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Debate-Me-brochure.pdf
+- Brochure: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Debate-Me-brochure.pdf
 
 High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.net/topic.html
  - Please view the link above while on mobile responsive mode or from mobile phones. 
@@ -14,6 +14,7 @@ High-fidelity prototype (HTML, CSS, JavaScript, PHP): https://debateme.uqcloud.n
  
 Future of Debate Me - Development: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Future%20of%20Debate%20Me.docx
 
+# **Semester Progress and Team Member Contributions:**
 # **Stand Up 1:**
 ## **Aims/Goals:** 
 - Create low fidelity paper prototype of the user interface 
