@@ -3,7 +3,7 @@
 ## **Promotional Material:**
 - Poster: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Poster.pdf
 
-- Kickstarter Video: https://www.youtube.com/watch?v=U_8lgUJSF3M&t=49s
+- Kickstarter Video: https://youtu.be/U_8lgUJSF3M
 
 - Brochure: https://github.com/deco3500-2017/SuzukiSwifts/blob/master/Debate-Me-brochure.pdf
 
